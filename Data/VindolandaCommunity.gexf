@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-04-10">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="Overseas Man">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="35.68839" y="-78.104904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="2" label="Macrinus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.485432" y="-2.4074485" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="3" label="Felicius Victor">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.02199" y="-33.589485" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="4" label="Spectatus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.9486" y="-22.324314" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="5" label="Father">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-55.08218" y="49.36888" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="6" label="Oxherds">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.378556" y="-237.43626" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="7" label="Amabilis">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.26561" y="-72.33165" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="8" label="Crescens">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.84984" y="-109.63392" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="9" label="Firmus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="193.41057" y="12.883479" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="10" label="Lu... the beneficarius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="75.95655" y="-227.23448" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="11" label="Legionary soldiers">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.31489" y="-215.56111" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="12" label="Candidus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.41852" y="28.65222" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="13" label="You">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="83.314064" y="-153.7588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="14" label="Lucco">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.67387" y="-106.93627" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="15" label="Primus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.68733" y="-66.73228" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="16" label="Lucius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.86227" y="-29.570808" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="17" label="Voturius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.41658" y="65.24543" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="18" label="Tetricus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-88.545" y="17.478079" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="19" label="Primus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="29.142378" y="-197.48555" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="20" label="Alio the veterinary doctor">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.505503" y="-149.11108" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="21" label="Vitalis the bathman">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="122.340866" y="-202.65195" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="22" label="Ingenuus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.13357" y="64.35721" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="23" label="Acranius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="69.726326" y="23.306337" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="24" label="Vardullian cavalrymen">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="154.22534" y="-158.29424" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="25" label="Tagamatis the flag-bearer">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-101.4863" y="-153.19073" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="26" label="British girlfriend">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-80.520256" y="-183.68143" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="27" label="Octavius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="315.12924" y="48.01454" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="28" label="Tertius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.26126" y="64.243805" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="29" label="Fatalis">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="375.8874" y="94.028496" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="30" label="Frontius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="348.2494" y="124.78397" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="31" label="Frontinius Iulius">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.32877" y="-14.409795" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="32" label="Gleuco">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="305.93286" y="133.23643" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="33" label="Marinus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.57623" y="21.690098" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="11">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="13">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="14">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="15">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="16">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="17">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="20">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="21">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="22">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="23">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="24">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="25">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="26">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="28">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="30">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="31">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="32">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="33">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="16">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="25" target="26">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="12" label="Tab.Vindol.343">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="28">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="30">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="31">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="32">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="33">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="29">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
