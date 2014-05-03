@@ -46,14 +46,14 @@ function BMdrawMap() {
             return {path: path, projection: projection};
         },
         fills: {
-            defaultFill: "#fff",
+            defaultFill: "#DDD",
             bubbleFill: '#000'
         },
         geographyConfig: {
-            dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
+            dataUrl: '/Scripts/world.topo.hi-res.json',
             hideAntarctica: true,
-            borderWidth: 1,
-            borderColor: '#000',
+            borderWidth: 0.5,
+            borderColor: '#222',
             popupTemplate: function(geography, data) { //this function should just return a string
               return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
             },
