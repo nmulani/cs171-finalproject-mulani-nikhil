@@ -1,0 +1,181 @@
+html {
+	height: 100%;
+	margin-bottom: 1px;
+	}
+
+body {
+	font-family: "Gill Sans", "Bitstream Vera Sans", sans-serif;
+	background-color: #fff;
+	min-width: 1200px;
+	}
+
+a {
+	text-decoration: none;
+	}
+
+a:link {
+	font-family: "Gill Sans", "Bitstream Vera Sans", sans-serif;
+	color: #000;
+	border-color: #888;
+	border-width: 0 0 1px 0;
+	border-style: none none solid none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a:visited {
+	font-family: "Gill Sans", "Bitstream Vera Sans", sans-serif;
+	color: purple;
+	border-color: #999;
+	border-width: 0 0 1px 0;
+	border-style: none none dotted none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a:hover {
+	color: white;
+	background-color: #808080;
+	border-color: #808080;
+	text-decoration: none;
+	}
+
+.arc path {
+  stroke: #fff;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+        
+datamaps-hoverover {
+	position: fixed;
+}    
+blockquote {
+    max-width:390px;
+    color: #000;
+    text-align: justify; 
+    margin-left: auto; 
+    margin-right: auto;
+
+}
+section {
+    width: 90%;
+    height: 600px;
+    margin: auto;
+    padding: 30px;
+}
+    .square
+    {
+        float: left;
+        margin:1pt;
+    }
+
+    
+            .square2
+    {
+        float: left;
+        margin:1pt;
+
+    }
+            .square3
+    {
+        float: left;
+        margin:1pt;
+
+    }
+            .square4
+    {
+        float: left;
+        margin:1pt;
+
+
+    }
+    .container4
+    {
+        text-align:center;
+		width: 1600pxs;
+
+    }
+    .centerwrapper
+    {
+       margin: auto;
+    }
+div.floating-menu {position:fixed;background:#fff;border:1px solid #000;width:122px;z-index:100;
+  left: .5%;
+  top: 10%;
+  margin-top: -2.5em;}
+div.floating-menu a, div.floating-menu h3 {display:block;margin:2 0.5em; text-align: center;}
+
+ p {
+ 	margin: 0 0 1.6em 0;
+	padding: 0;
+	}
+
+h1 {
+	font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Georgia, serif;
+	font-size: 2.55em;
+	/* line-height: 1.5em; */
+    color: #000;
+    text-align: center;
+	font-weight: normal;
+	margin: 0em 0px 1.25em 0px;
+    text-transform: uppercase;
+	}
+
+h2 {
+	font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Verdana, "Bitstream Vera Sans", sans-serif;
+    text-align: center;
+    font-size: 1.1em; /* 1 */
+	font-weight: normal;
+    color: #000;
+	/* line-height: 1.8em; */
+	letter-spacing: .2em;
+	margin: 4em 0 1em 0;
+	text-transform: uppercase;
+	}
+
+h1 + h2 {
+	margin-top: 2em;
+	}
+h2 + h3 {
+	margin-top: 1.5em;
+	}
+
+h3 {
+	font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Verdana, "Bitstream Vera Sans", sans-serif;
+	font-size: .91em;
+    text-align: center;
+	font-weight: normal;
+    color: #000;
+	/* line-height: 1.8em; */
+	letter-spacing: .2em;
+	margin-bottom: 1.4em;
+	margin-top: 3em;
+	text-transform: uppercase;
+	}
